@@ -11,6 +11,6 @@ Prediction using Supervised ML
 ● Task submission: 
 1. Hosted the code on GitHub Repository (public). Record the code and 
 output in a video. Post the video on YouTube
-2. Shared links of code (GitHub) and video (YouTube) as a post on 
-YOUR LinkedIn profile, not TSF Network.
-3. Submit the LinkedIn link in Task Submission Form when shared.
+2. Shared links of code (GitHub) and video (YouTube : https://youtu.be/4ZKDov8jQJk ) as a post on 
+LinkedIn profile, not TSF Network.
+3. Submited the LinkedIn link in Task Submission Form when shared.
